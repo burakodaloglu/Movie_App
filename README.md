@@ -1,6 +1,8 @@
 # Movie App
 ###### Bu projede neler kullandım...
-
+   
+   - View Binding
+   - MVVM
    - Dagger(Hilt)
    - Retrofit
    - Jetpack Navigation Component
