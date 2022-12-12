@@ -4,6 +4,7 @@
    - Dagger(Hilt)
    - Retrofit
    - Jetpack Navigation Component
+   - OkHttp Interceptor
 
 <br>
 <p align="center">
